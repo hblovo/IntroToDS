@@ -1,2 +1,4 @@
 pos.txt
 neg.txt
+../Week1/*.json
+../Week1/*.ipynb
